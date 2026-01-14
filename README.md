@@ -23,5 +23,3 @@ The code will depend on the following libraries:
 - Robosuite
 - MuJoCo
 
-## Contact
-If you have any questions, please feel free to contact Liming Zhang at limingzhang@njust.edu.cn.
